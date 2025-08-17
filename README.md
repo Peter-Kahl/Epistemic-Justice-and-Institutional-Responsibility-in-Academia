@@ -25,7 +25,7 @@ epistemic justice, epistemic openness, epistemic injustice, fiduciary ethics, ac
 
 ### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
 
-- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Justice-and-Institutional-Responsibility-in-Academia/master/Kahl_P_Epistemic_Justice_and_Institutional_Responsibility_in_Academia_v2_27-AUG-2025.pdf)
+- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Justice-and-Institutional-Responsibility-in-Academia/master/Kahl_P_Epistemic_Justice_and_Institutional_Responsibility_in_Academia_v2_17-AUG-2025.pdf)
 
 ### Cite this work:
 
