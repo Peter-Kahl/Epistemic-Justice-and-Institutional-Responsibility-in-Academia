@@ -2,12 +2,13 @@
 
 ### Toward a Comprehensive Framework for Epistemic Justice in Higher Education
 
+#### A comparative legal and philosophical study of universities’ duties to institutionalise epistemic justice
+
+by Peter Kahl, 7 June 2025
+
+DOI: 10.13140/RG.2.2.11063.38563
+
 ![alt text](https://github.com/Peter-Kahl/Epistemic-Justice-and-Institutional-Responsibility-in-Academia/blob/main/trapezoid-academia.jpg?raw=true)
-
-by Peter Kahl, 7 June 2025\
-2nd Edition 17 August 2025
-
----
 
 ### Abstract
 
@@ -30,7 +31,7 @@ epistemic justice, epistemic openness, epistemic injustice, fiduciary ethics, ac
 ### Cite this work:
 
 ```
-Peter Kahl, Epistemic Justice and Institutional Responsibility in Academia: Toward a Comprehensive Framework for Epistemic Justice in Higher Education (v2 edn, Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Epistemic-Justice-and-Institutional-Responsibility-in-Academia>
+Peter Kahl, Epistemic Justice and Institutional Responsibility in Academia: Toward a Comprehensive Framework for Epistemic Justice in Higher Education (2nd edn, Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Epistemic-Justice-and-Institutional-Responsibility-in-Academia> DOI: 10.13140/RG.2.2.11063.38563
 ```
 
 ### Publisher & Licence
